@@ -1,0 +1,13 @@
+Customer Name: charan
+order id : 1730649236
+item     quantity  per/price subtotal 
+1.tea  :      5         10         50
+-------------------------------------
+2.coffee  :      5         20         100
+-------------------------------------
+Total Price: 150
+Status: sucess
+Date : Sun Nov 03 21:23:56 2024
+
+
+     ...... thanks you for visit......

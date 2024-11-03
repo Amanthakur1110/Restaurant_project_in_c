@@ -1,0 +1,11 @@
+Customer Name: rajesh
+order id : 1730649527
+item     quantity  per/price subtotal 
+1.Biryani  :      2         150         300
+-------------------------------------
+Total Price: 300
+Status: sucess
+Date : Sun Nov 03 21:28:47 2024
+
+
+     ...... thanks you for visit......
